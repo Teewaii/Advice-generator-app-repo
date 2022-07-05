@@ -24,7 +24,7 @@ body {
 
 .container {
     background-color: var(--GrayishBlue);
-    height: 300px;
+    min-height: 200px;
     width: 400px;
     margin: auto;
     margin-top: 80px;
@@ -50,7 +50,7 @@ body {
     font-size: 1.4rem;
     letter-spacing: .5px;
     max-width: 85%;
-    /* margin-bottom: 30px; */
+    margin-bottom: 95px;
     /* border: 1px solid green; */
 }
 
